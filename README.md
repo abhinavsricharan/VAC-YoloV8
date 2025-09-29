@@ -40,7 +40,7 @@ Sustainable mobility solutions with lower fuel usage and emissions
 Integration with IoT sensors for vehicle-to-infrastructure communication
 AI-driven predictive traffic modeling for congestion avoidance
 Expansion to multi-city deployments with centralized cloud systems
-Voice-enabled navigation system for ambulance drivers
+Voice-enabled navigation system for ambulance drivers.
 
 
 
