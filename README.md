@@ -26,7 +26,7 @@ Track vehicles across frames with DeepSORT (unique IDs assigned)
 Generate dynamic statistics: vehicle count, lane density, average speed
 Apply adaptive traffic signal control logic
 Prioritize emergency vehicles through automatic signal override
-Provide real-time insights via dashboards for traffic operators
+Provide real-time insights via dashboards for traffic operators.
 
 
 🚑 Use Cases
